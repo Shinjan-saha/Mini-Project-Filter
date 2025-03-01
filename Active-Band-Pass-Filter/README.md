@@ -63,6 +63,12 @@ title('Step Response of Active Band-Pass Filter (2kHz - 8kHz)');
 <br>
 <br>
 
+<img src="./img/bpfcode.png">
+
+<br>
+<br>
+<br>
+
 
 <img src="./img/bpf1.png">
 
