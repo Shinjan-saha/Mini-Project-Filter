@@ -3,8 +3,8 @@ clear;
 close all;
 
 
-R1 = 400;   % 400Ω
-R2 = 400;   % 400Ω
+R1 = 390;   % 390Ω
+R2 = 390;   % 390Ω
 R3 = 10e3;  % 10kΩ (For Op-Amp feedback)
 R4 = 10e3;  % 10kΩ (For Op-Amp feedback)
 C1 = 0.1e-6; % 0.1µF (100nF)
@@ -24,7 +24,7 @@ bode(H);
 grid on;
 title('Bode Plot of Active High-Pass Filter (4kHz)');
 
-% Frequency Response (Magnitude Plot)
+%  (Magnitude Plot)
 figure;
 freqs([R1 * R2 * C1 * C2, 0, 0], [R1 * R2 * C1 * C2, (R1 + R2) * C1, 1]);
 grid on;
