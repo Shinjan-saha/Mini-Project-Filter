@@ -1,4 +1,4 @@
-# Active Band Pass Filter 8Khz
+# Active Band Pass Filter 2Khz-8Khz
 
 ## MATLAB Test:-
 

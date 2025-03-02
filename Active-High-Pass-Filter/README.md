@@ -1,4 +1,4 @@
-# Active High Pass Filter 8Khz
+# Active High Pass Filter 4Khz
 
 ## MATLAB Test:-
 
