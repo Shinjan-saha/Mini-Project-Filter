@@ -46,6 +46,12 @@ title('Step Response of Active Low-Pass Filter (8kHz)');
 <br>
 
 
+<img src="./img/lpf-ckt.png">
+
+<br>
+<br>
+<br>
+
 <img src="./img/lpfcode.png">
 
 <br>
