@@ -45,6 +45,13 @@ title('Step Response of Active High-Pass Filter (4kHz)');
 <br>
 <br>
 
+
+<img src="./img/hpf-ckt.png">
+
+<br>
+<br>
+<br>
+
 <img src="./img/hpfcode.png">
 
 <br>
