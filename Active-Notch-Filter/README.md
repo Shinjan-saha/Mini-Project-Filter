@@ -55,18 +55,29 @@ fprintf('Notch Depth ≈ %.2f dB\n', notch_depth_dB);
 
 <img src="./img/nf.png">
 
-## Working in 50hz (Falstad Simultation):-
+## Working in Above 1 khz (Falstad Simultation):-
 
-<img src="./img/50khz-nf.png">
+<img src="./img/morethan1khz-ckt.png">
+
+
+## Working in Less 1 khz (Falstad Simultation):-
+
+<img src="./img/below1khz-ckt.png">
 
 ## Working in 1Khz (Falstad Simultation):-
 
-<img src="./img/1khz-nf.png">
+<img src="./img/1kh-ckt.png">
 
 ## PCB Design 2D:-
 
-<img src="./img/2d-nf.png">
+<img src="./img/2d-ckt.png">
 
 ## PCB Design 3D:-
 
-<img src="./img/3d-nf.png">
+<img src="./img/3d-ckt.png">
+
+## Falstad Simultation Link:-
+
+```bash
+https://tinyurl.com/29tznblg
+```
