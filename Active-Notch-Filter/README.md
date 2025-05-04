@@ -55,6 +55,11 @@ fprintf('Notch Depth ≈ %.2f dB\n', notch_depth_dB);
 
 <img src="./img/nf.png">
 
+
+## Schemtaics Design of Notch Filter:-
+
+<img src="./img/notch-filter-design.png">
+
 ## Working in Above 1 khz (Falstad Simultation):-
 
 <img src="./img/morethan1khz-ckt.png">
@@ -67,6 +72,12 @@ fprintf('Notch Depth ≈ %.2f dB\n', notch_depth_dB);
 ## Working in 1Khz (Falstad Simultation):-
 
 <img src="./img/1kh-ckt.png">
+
+
+## Only PCB Design:-
+
+
+<img src="./img/notch-filter-onlyPCB.png">
 
 ## PCB Design 2D:-
 

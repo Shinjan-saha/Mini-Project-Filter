@@ -84,3 +84,25 @@ title('Step Response of Active High-Pass Filter (4kHz)');
 ## Working above 4khz (Falstad Simultation)
 
 <img src="./img/above4khz.png">
+
+
+## Only PCB Design:-
+
+<img src="./img/hpf-onlyPCB.png">
+
+## PCB Design 2D:-
+
+<img src="./img/hpf-2d.png">
+
+
+## PCB Design 3D:-
+
+<img src="./img/hpf-3d.png">
+
+
+
+## Falstad Simultation Link
+
+```bash
+https://tinyurl.com/22hzy2da
+```
