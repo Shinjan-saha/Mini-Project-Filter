@@ -52,6 +52,13 @@ fprintf('Notch Depth ≈ %.2f dB\n', notch_depth_dB);
 <br>
 <br>
 
+## Matlab Code Output
+
+<img src="./img/nfcode.png">
+
+<br>
+<br>
+<br>
 
 <img src="./img/nf.png">
 
