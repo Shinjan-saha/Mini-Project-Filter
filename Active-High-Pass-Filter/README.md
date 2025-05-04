@@ -71,3 +71,16 @@ title('Step Response of Active High-Pass Filter (4kHz)');
 <br>
 
 <img src="./img/hpf3.png">
+
+
+## Working Below 4khz (Falstad Simultation)
+
+<img src="./img/below4khz.png">
+
+## Working at 4khz (Falstad Simultation)
+
+<img src="./img/exactly4khz.png">
+
+## Working above 4khz (Falstad Simultation)
+
+<img src="./img/above4khz.png">
